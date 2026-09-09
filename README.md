@@ -9,12 +9,10 @@ I build security-focused tools, practical Python projects, and web experiences w
 ## ⭐ Featured
 
 | Project | What it is |
-| --- | --- |
-| [🔐 CODE-ReD](https://github.com/gayatori-san/CODE-ReD) | Cybersecurity-focused project |
+| --- | --- 
 | [🛡️ VASTUPRO](https://github.com/gayatori-san/VASTUPRO) | Web project |
 | [🚇 MetroCert](https://github.com/gayatori-san/MetroCert) | Certificate-related development project |
 | [🔑 Polybius Cipher Tool](https://github.com/gayatori-san/polybius-cipher-tool) | Classical cipher tool |
-| [🏆 HACKATHON-1](https://github.com/gayatori-san/HACKATHON-1) | Hackathon project |
 | [🌐 Portfolio](https://github.com/gayatori-san/gayatori-san.github.io) | Personal portfolio website |
 
 ---
