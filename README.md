@@ -11,8 +11,6 @@ I build practical security tools, web projects, and hackathon systems while lear
 Projects and experiments focused on security, CTFs, and security tooling.
 
 - 🛡️ [Polybius Cipher Tool](https://github.com/gayatori-san/polybius-cipher-tool) — classical cipher utility
-- 🔴 [CODE-ReD](https://github.com/gayatori-san/CODE-ReD) — cybersecurity-focused project
-- 🧩 [UNPROF](https://github.com/gayatori-san/UNPROF) — security/project work
 - 🌐 [NetVelocity Speed Tester](https://github.com/gayatori-san/netvelocity-speed-tester) — networking-related utility
 
 **Currently building:** digital forensics, phishing investigation, incident-log analysis, bug-bounty recon, and CTF tooling.
