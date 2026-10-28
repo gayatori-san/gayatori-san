@@ -1,47 +1,46 @@
-# 👋🏼👋🏼👋🏼 Hi, I'm Gayatri Giri
+# 👋 Hi, I'm Gayatri Giri
 
 **B.Tech IT Student · Cybersecurity · Python · Linux · Web Security**
 
-I build practical security tools, web projects, and hackathon systems while learning through **CTFs, hands-on labs, and real projects**.
+I build practical security tools, web projects, and hackathon systems while learning through hands-on labs, CTFs, and real projects.
+
+🌐 **[Visit my portfolio](https://gayatori-san.github.io/)** · 💻 **[GitHub repositories](https://github.com/gayatori-san?tab=repositories)**
 
 ---
 
-## 🛡️ Cybersecurity
+## 🛡️ Cybersecurity Projects
 
-Projects and experiments focused on security, CTFs, and security tooling.
+- 🛡️ **[NetShield](https://github.com/gayatori-san/netshield)** — network-security project focused on monitoring and threat visibility.
+- 🔐 **[VAULTline](https://github.com/gayatori-san/VAULTline)** — whimsical security-focused registration and password experience.
+- 🔎 **[Polybius Cipher Tool](https://github.com/gayatori-san/polybius-cipher-tool)** — classical cipher utility for encoding and decoding.
+- 🌐 **[NetVelocity Speed Tester](https://github.com/gayatori-san/netvelocity-speed-tester)** — networking-related utility.
 
-- 🛡️ [Polybius Cipher Tool](https://github.com/gayatori-san/polybius-cipher-tool) — classical cipher utility
-- 🌐 [NetVelocity Speed Tester](https://github.com/gayatori-san/netvelocity-speed-tester) — networking-related utility
+## 🏆 Hackathon Projects
 
-**Currently building:** digital forensics, phishing investigation, incident-log analysis, bug-bounty recon, and CTF tooling.
+Competition builds, prototypes, and challenge-focused work.
 
----
+- 🚇 **[MetroCert](https://github.com/gayatori-san/MetroCert)** — Smart India Hackathon compliance and test-reporting system.
+- 🌦️ **[Hybrdcast](https://github.com/gayatori-san/hybrdcast)** — AI and forecasting project.
+- 🛰️ **[SIH](https://github.com/gayatori-san/SIh)** — Smart India Hackathon project work.
+- 🌐 **[SIH Site](https://github.com/gayatori-san/SIH-SITE)** — hackathon project website.
+- 🧪 **[HACKATHON-1](https://github.com/gayatori-san/HACKATHON-1)** — hackathon prototype.
 
-## 🏆 Hackathons & Projects
+## 💜 Personal Projects
 
-- 🚇 [MetroCert](https://github.com/gayatori-san/MetroCert) — SIH project
-- 🌦️ [Hybrdcast](https://github.com/gayatori-san/hybrdcast) — AI / forecasting project
-- 🛰️ [SIH](https://github.com/gayatori-san/SIh) — Smart India Hackathon work
-- 🌐 [SIH Site](https://github.com/gayatori-san/SIH-SITE) — hackathon project website
-- 💡 [Spendsmart-AI](https://github.com/gayatori-san/Spendsmart-AI) — AI project
-- 🧪 [HACKATHON-1](https://github.com/gayatori-san/HACKATHON-1) — hackathon project
+Independent builds, tools, and experiments.
 
----
+- 💡 **[SpendSmart AI](https://github.com/gayatori-san/Spendsmart-AI)** — AI and personal-finance project.
+- 🧭 **[VASTUPRO](https://github.com/gayatori-san/VASTUPRO)** — Vastu consultation platform project.
+- 💻 **[CODE-ReD](https://github.com/gayatori-san/CODE-ReD)** — web-development and deployment experiments.
+- 🎀 **[Portfolio Website](https://github.com/gayatori-san/gayatori-san.github.io)** — personal portfolio.
 
-## 🌐 Personal Websites
+## 🧰 Tech Stack
 
-- 💻 [Portfolio](https://github.com/gayatori-san/gayatori-san.github.io)
-- 💜 [VASTUPRO](https://github.com/gayatori-san/VASTUPRO) — web project
-
----
-
-## 🧰 Tech
-
-`Python` · `Linux` · `Bash` · `C++` · `HTML/CSS` · `JavaScript` · `Git/GitHub`
+`Python` · `Linux` · `Bash` · `C++` · `HTML/CSS` · `JavaScript` · `Flask` · `Git/GitHub`
 
 ## 🎯 Currently Learning
 
-`TryHackMe` · `Hack The Box` · `picoCTF` · `Web Security` · `Digital Forensics` · `CTFs`
+`Web Security` · `Digital Forensics` · `CTFs` · `TryHackMe` · `Hack The Box` · `picoCTF`
 
 ## 📫 Connect
 
