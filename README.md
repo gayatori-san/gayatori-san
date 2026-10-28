@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gayatri Giri
+# 👋🏼👋🏼👋🏼 Hi, I'm Gayatri Giri
 
 **B.Tech IT Student · Cybersecurity · Python · Linux · Web Security**
 
